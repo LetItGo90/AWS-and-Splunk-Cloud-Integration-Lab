@@ -19,3 +19,4 @@ Example SPL:
 index=aws_cloudtrail | timechart count by source
 index=aws_cloudtrail | top limit=10 source
 index=aws_cloudtrail | top limit=10 userIdentity.arn
+<img width="2063" height="991" alt="image" src="https://github.com/user-attachments/assets/77c9ce9c-39b0-473c-b43a-f5d413e0ea81" />
